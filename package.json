@@ -1,0 +1,46 @@
+{
+  "name": "Aot",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest-serializer": "^23.0.1",
+    "react": "16.6.1",
+    "react-multiple-datepicker": "^0.1.0",
+    "react-native": "0.57.7",
+    "react-native-calendars": "^1.21.0",
+    "react-native-check-box": "^2.1.7",
+    "react-native-confirmation-code-input": "^1.0.4",
+    "react-native-document-picker": "^2.2.0",
+    "react-native-elements": "^0.19.1",
+    "react-native-gesture-handler": "^1.0.10",
+    "react-native-image-crop-picker": "^0.22.0",
+    "react-native-linear-gradient": "^2.5.3",
+    "react-native-maps": "^0.22.1",
+    "react-native-modal": "^7.0.2",
+    "react-native-picker-select": "^5.2.0",
+    "react-native-ratings": "^6.3.0",
+    "react-native-router-flux": "^4.0.6",
+    "react-native-segment-controller": "^1.0.0",
+    "react-native-selectme": "^1.2.3",
+    "react-native-simple-radio-button": "^2.7.3",
+    "react-native-swiper": "^1.5.14",
+    "react-native-switch": "^1.5.0",
+    "react-native-textarea": "^1.0.2",
+    "react-native-textinput-effects": "^0.4.2",
+    "react-native-vector-icons": "^6.1.0",
+    "react-navigation": "^3.0.9"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.50.0",
+    "react-test-renderer": "16.6.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

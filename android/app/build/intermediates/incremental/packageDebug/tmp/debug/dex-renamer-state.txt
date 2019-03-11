@@ -1,0 +1,4 @@
+#Mon Feb 11 17:38:34 IST 2019
+base.0=/Volumes/D/Rupak/React/Aot/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
